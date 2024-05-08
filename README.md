@@ -4,7 +4,7 @@
 
 [![discord](https://img.shields.io/discord/1181504958802186240.svg?style=flat&color=lightgray&logo=discord)](https://discord.gg/2uppTzjUHE)
 
-A collection of resources for the Njord project.
+A collection of resources for Njord.
 
 ## Contributors
 
