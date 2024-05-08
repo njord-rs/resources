@@ -2,7 +2,7 @@
 
 # Resources
 
-![discussions](https://img.shields.io/github/discussions/njord-rs/njord)
+[![discord](https://img.shields.io/discord/1181504958802186240.svg?style=flat&color=lightgray&logo=discord)](https://discord.gg/2uppTzjUHE)
 
 A collection resources for Njord.
 
